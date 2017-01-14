@@ -7,43 +7,13 @@
   </url>
   
   <url>
-    <loc>http://www.julienrott.fr/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/home/talks/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.julienrott.fr/home/posts/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/home/teaching/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.julienrott.fr/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/talk/example-talk/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -67,11 +37,6 @@
   </url>
   
   <url>
-    <loc>http://www.julienrott.fr/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.julienrott.fr/tags/academic/</loc>
     <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -90,12 +55,6 @@
   </url>
   
   <url>
-    <loc>http://www.julienrott.fr/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.julienrott.fr/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -109,12 +68,6 @@
   
   <url>
     <loc>http://www.julienrott.fr/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/talk/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
