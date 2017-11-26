@@ -17,40 +17,13 @@
   </url>
   
   <url>
-    <loc>http://www.julienrott.fr/post/getting-started/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/post/widgets/</loc>
-    <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/post/managing-content/</loc>
-    <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/post/writing-markdown-latex/</loc>
-    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/tags/academic/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://www.julienrott.fr/post/angular-1/</loc>
+    <lastmod>2017-03-30T21:48:42+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.julienrott.fr/home/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/tags/hugo/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,12 +35,7 @@
   
   <url>
     <loc>http://www.julienrott.fr/post/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.julienrott.fr/tags/</loc>
+    <lastmod>2017-03-30T21:48:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
