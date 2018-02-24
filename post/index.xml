@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Julien ROTT</title>
-    <link>http://www.julienrott.fr/post/index.xml</link>
+    <link>http://www.julienrott.fr/post/</link>
     <description>Recent content in Posts on Julien ROTT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Julien ROTT</copyright>
     <lastBuildDate>Thu, 30 Mar 2017 21:48:42 +0200</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Angular 1</title>
@@ -224,7 +224,7 @@ function tutoService($http, $window) {
             &lt;tr ng-repeat=&#34;todo in vm.todos&#34; ng-show=&#34;(todo.done === false) || (todo.done === true &amp;&amp; vm.showDoneTodos === true)&#34;&gt;
                 &lt;td&gt;&lt;input type=&#34;checkbox&#34; ng-model=&#34;todo.done&#34; ng-change=&#34;vm.todoChanged()&#34; id=&#34;cb{{todo.id}}&#34;&gt;&lt;/td&gt;
                 &lt;td&gt;&lt;label ng-bind=&#34;todo.label&#34; ng-class=&#34;{barre: todo.done}&#34; for=&#34;cb{{todo.id}}&#34;&gt;&lt;/label&gt;&lt;/td&gt;
-                &lt;td&gt;&lt;a href=&#34;#&#34; ng-click=&#34;vm.deleteTodo(todo.id)&#34;&gt;&lt;span class=&#34;glyphicon glyphicon-trash btn btn-danger&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;#&#34; ng-click=&#34;vm.deleteTodo($event, todo.id)&#34;&gt;&lt;span class=&#34;glyphicon glyphicon-trash btn btn-danger&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;/tr&gt;
         &lt;/table&gt;
 
