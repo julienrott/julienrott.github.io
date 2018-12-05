@@ -8,7 +8,37 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Julien ROTT</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.julienrott.fr/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.julienrott.fr/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.julienrott.fr/home/about/</guid>
+      <description>Biography Work in progress
+More to come.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://www.julienrott.fr/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.julienrott.fr/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.julienrott.fr/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.julienrott.fr/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

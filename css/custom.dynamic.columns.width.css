@@ -1,0 +1,28 @@
+
+table thead, table tbody, table tr, table td, table th { display: block; }
+
+table tr:after {
+  content: ' ';
+  display: block;
+  visibility: hidden;
+  clear: both;
+}
+
+table tbody {
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+table tbody td, table thead th {
+  float: left;
+  font-size: 11px;
+  word-wrap: break-word  !important;
+}
+
+.fixed-size-70 {
+    width: 70px !important;
+}
+
+.fixed-size-45 {
+    width: 45px !important;
+}
