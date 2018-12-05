@@ -22,12 +22,16 @@
 
 &lt;p&gt;Petit tutorial sur Angular 1 avec une démo à la fin :)&lt;/p&gt;
 
-&lt;p&gt;&lt;ins class=&#34;adsbygoogle&#34;
+&lt;script async src=&#34;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&#34;&gt;&lt;/script&gt;
+&lt;ins class=&#34;adsbygoogle&#34;
      style=&#34;display:block; text-align:center;&#34;
      data-ad-layout=&#34;in-article&#34;
      data-ad-format=&#34;fluid&#34;
      data-ad-client=&#34;ca-pub-5871598473810001&#34;
-     data-ad-slot=&#34;9868986126&#34;&gt;&lt;/ins&gt;&lt;/p&gt;
+     data-ad-slot=&#34;8067274702&#34;&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
 
 &lt;p&gt;Fichier index html &lt;strong&gt;index.html&lt;/strong&gt;&lt;/p&gt;
 
